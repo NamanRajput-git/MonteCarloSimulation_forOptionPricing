@@ -28,3 +28,15 @@ The project also provides tools for analyzing errors, visualizing pricing discre
  - sigma: Volatility (historical or implied).
  - n_paths: Number of Monte Carlo simulation paths.
  - n_steps: Number of time steps for path discretization.
+   
+   ## References
+
+- Black, F., & Scholes, M. (1973). *The Pricing of Options and Corporate Liabilities*. Journal of Political Economy.  
+- Glasserman, P. (2003). *Monte Carlo Methods in Financial Engineering*. Springer.  
+- Longstaff, F. A., & Schwartz, E. S. (2001). *Valuing American Options by Simulation: A Simple Least-Squares Approach*. Review of Financial Studies.  
+- Yahoo Finance API: [https://pypi.org/project/yfinance/](https://pypi.org/project/yfinance/)  
+
+## License
+
+This project is licensed under the MIT License.
+
